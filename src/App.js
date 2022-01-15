@@ -33,7 +33,7 @@ function App() {
     
 
 
-  },[busquedaletra,info])
+  },[busquedaletra])
 
   return (
     <Fragment>
